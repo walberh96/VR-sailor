@@ -4,5 +4,3 @@ I still want to add improve this one to have the strawhats flag on my ship, and 
 And later on add a thing to do and explore on the ship
 
 ![Screenshot 1](./Screenshots/1.png)
-![Screenshot 2](./Screenshots/2.png)
-![Screenshot 3](./Screenshots/3.png)
