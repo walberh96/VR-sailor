@@ -3,4 +3,5 @@ I saw the live action of One Piece this weekend and was taking the VR course so 
 I still want to improve this one to have the strawhats flag on my ship, and even have the strawhats ship, It will be AWESOME!!!
 And later on add a thing to do and explore on the ship
 
+![Screenshot 2](./Screenshots/2.png)
 ![Screenshot 1](./Screenshots/1.png)
